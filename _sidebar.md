@@ -7,6 +7,7 @@
   - [Formação de equipe](blog/2026-09-23-primeiro-envio.md)
   - [Pós release 1](blog/2026-10-07-segundo-envio.md)
   - [Entre releases](blog/2026-10-28-terceiro-envio.md)
+  - [Pré release 2](blog/2026-11-18-quarto-envio.md)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
